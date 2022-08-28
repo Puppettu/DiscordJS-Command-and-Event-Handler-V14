@@ -6,3 +6,5 @@
 - Check out Puppettu: https://discord.gg/85vFksTpX7
 
 # Thanks to @Jermayn#2393 but I edited some parts yes! :3
+
+- I'll be updating this repository every 2 days! So you don't miss out!!
