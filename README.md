@@ -22,7 +22,7 @@
 - Credits to `@Jermayn#2393` & `@Puppettu#9013` but I edited some parts :3
 - Please `STAR ⭐` this repository as I'll be updating this repository `every 2 days`! So you don't miss out!!
 
-# 🔗 Important Links:
+# 🔗 Useful Links:
 - Check out Lyxcode's [YouTube Channel](https://www.youtube.com/c/Lyxcode)
 - Check out Lyxcode's [Discord Server](https://discord.gg/fSfjHbABJD)
 
