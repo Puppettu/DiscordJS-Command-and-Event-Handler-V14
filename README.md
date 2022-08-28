@@ -22,5 +22,5 @@
 - `node .` or `node index.js`
 
 - Thank you for reading!
-- Thanks to @Jermayn#2393 but I edited some parts yes! :3
+- Credits to @Jermayn#2393 & @Puppettu#9013 but I edited some parts :3
 - STAR this repository as I'll be updating this repository every 2 days! So you don't miss out!!
