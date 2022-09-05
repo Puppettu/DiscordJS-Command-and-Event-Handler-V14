@@ -2,15 +2,13 @@
 - To those who have issues with common errors like; The application did not respond to you.
 - If you have any problem, join Puppettu's [Support Server](https://discord.gg/85vFksTpX7) via Discord: 
 
-# 🤖 How To Install/Use This Handler?
-- 1. Download the code via `.zip`! [View Screenshot](https://user-images.githubusercontent.com/97049995/188441028-1697b0f9-99b9-42fc-b8f0-f48748706eb3.jpg)
- 
-- 2. Install the required Packages [teleport](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#%EF%B8%8F-installing-packages)
+# 🤖 How To Install/Use The Handler?
 
-
-# 🪛 Changing Some Stuff:
-- in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
-- in [slashCommands.js](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/Events/Interactions/slashCommands.js) file, change Line:21 "YOUR USER ID" with your own id, because it's the bot developer's ID. If the bot has multiple developers, then continue with: `(command.developer && interaction.user.id !== "YOUR USER ID" || command.developer && interaction.user.id !== "2ND OWNER" || command.developer && interaction.user.id !== "3RD OWNER)"`
+- 1. Download the code via `.zip` -> [📦 Download Here](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/archive/refs/heads/main.zip)
+- 2. Install all the required packages -> [🗃️ Installing Packages](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#%EF%B8%8F-installing-packages)
+- 3. Change some basic stuffs like; `bot_token` & `database_url` & `developer_id` -> [🪛 Changing Some Stuff](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-changing-some-stuff)
+- 4. Now run the bot 'cause you're done -> [👾 Starting The Bot](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-starting-the-bot)
+- 5. Support me by giving a "⭐" to this repo + Reach out thru [my socials](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-useful-links)
 
 # 🗃️ Installing Packages:
 - `npm install discord.js` - Installs the Discord.JS package
@@ -18,6 +16,10 @@
 - `npm init -y`- Installs all the required packages
 - `npm install glob` - Glob package
 - `npm install mongoose` - To continue using database (MONGODB)
+
+# 🪛 Changing Some Stuff:
+- in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
+- in [slashCommands.js](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/Events/Interactions/slashCommands.js) file, change Line:21 "YOUR USER ID" with your own id, because it's the bot developer's ID. If the bot has multiple developers, then continue with: `(command.developer && interaction.user.id !== "YOUR USER ID" || command.developer && interaction.user.id !== "2ND OWNER" || command.developer && interaction.user.id !== "3RD OWNER)"`
 
 # 👾 Starting The Bot:
 - `node .` or `node index.js`
