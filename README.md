@@ -26,8 +26,13 @@
 - `node .` or `node index.js`
 
 # 🔗 Useful Links:
-- Check out Puppettu's [YouTube Channel](https://www.youtube.com/channel/UCR93KA0vxdmXKhY-RDPrwbg)
-- Check out Puppettu's [Discord Server](https://discord.gg/85vFksTpX7)
+- [Puppettu's YouTube Channel](https://www.youtube.com/channel/UCR93KA0vxdmXKhY-RDPrwbg)
+- [Puppettu's Discord Server](https://discord.gg/85vFksTpX7)
+- [DiscordJS Docs](https://discord.js.org/#/docs/discord.js/main/general/welcome)
+- [Discord Developer Portal](https://discord.com/developers/applications)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [NodeJS](https://nodejs.org)
+- [MongoDB](https://www.mongodb.com)
 
 # 🤝🏻 Thank you for reading!
 - Credits to `@Puppettu#9013` :3
