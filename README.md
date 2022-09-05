@@ -2,6 +2,12 @@
 - To those who have issues with common errors like; The application did not respond to you.
 - If you have any problem, join Puppettu's [Support Server](https://discord.gg/85vFksTpX7) via Discord: 
 
+# 🤖 How To Install/Use This Handler?
+- 1. Download the code via `.zip` as shown!
+[Screenshot 2022-09-05 163215](https://user-images.githubusercontent.com/97049995/188439530-08ce5c0f-7be7-48c0-ae4a-6f7d605441a7.jpg)
+- 2. <img width="287" alt="image" src="https://user-images.githubusercontent.com/97049995/188439924-6efef7ea-074c-4813-afde-4447db1b9f79.png">
+
+
 # 🪛 Changing Some Stuff:
 - in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
 - in [slashCommands.js](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/Events/Interactions/slashCommands.js) file, change Line:21 "YOUR USER ID" with your own id, because it's the bot developer's ID. If the bot has multiple developers, then continue with: `(command.developer && interaction.user.id !== "YOUR USER ID" || command.developer && interaction.user.id !== "2ND OWNER" || command.developer && interaction.user.id !== "3RD OWNER)"`
