@@ -1,6 +1,6 @@
 # 📋 Basic Discord Bot - Command/Event Handler V14!
 - To those who have issues with common errors like; The application did not respond to you.
-- If you have any problem, join Puppettu's [Support Server](https://discord.gg/fSfjHbABJD) via Discord: 
+- If you have any problem, join Puppettu's [Support Server](https://discord.gg/85vFksTpX7) via Discord: 
 
 # 🪛 Changing Some Stuff:
 - in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
