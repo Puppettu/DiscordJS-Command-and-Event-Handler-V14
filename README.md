@@ -1,8 +1,6 @@
-# 📋 Lyxcode's Command/Event Handler V14!
-- To those who have issues with common errors like; The application did not respond or too lazy to type the handlers from Lyxcode's tutorials.
-
-- Teleport to [Lyxcode's Tutorial Playlist](https://www.youtube.com/playlist?list=PLQfxpktrTzhJ4WmZDOTIee3JPVq16DZkX)
-- If you have any problem, join Lyxcode [Support Server](https://discord.gg/fSfjHbABJD) via Discord: 
+# 📋 Basic Discord Bot - Command/Event Handler V14!
+- To those who have issues with common errors like; The application did not respond to you.
+- If you have any problem, join Puppettu's [Support Server](https://discord.gg/fSfjHbABJD) via Discord: 
 
 # 🪛 Changing Some Stuff:
 - in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
@@ -12,19 +10,16 @@
 - `npm install discord.js` - Installs the Discord.JS package
 - `npm install ascii-table` - Allows the console to log the events in a table
 - `npm init -y`- Installs all the required packages
-- `npm install glob` - Glob package (required to use Promisify)
-- `npm install mongoose` - To continue using database (MONGO)
+- `npm install glob` - Glob package
+- `npm install mongoose` - To continue using database (MONGODB)
 
 # 👾 Starting The Bot:
 - `node .` or `node index.js`
 
-# 🤝🏻 Thank you for reading!
-- Credits to `@Jermayn#2393` & `@Puppettu#9013` but I edited some parts :3
-- Please `STAR ⭐` this repository as I'll be updating this repository `every 2 days`! So you don't miss out!!
-
 # 🔗 Useful Links:
-- Check out Lyxcode's [YouTube Channel](https://www.youtube.com/c/Lyxcode)
-- Check out Lyxcode's [Discord Server](https://discord.gg/fSfjHbABJD)
-
 - Check out Puppettu's [YouTube Channel](https://www.youtube.com/channel/UCR93KA0vxdmXKhY-RDPrwbg)
 - Check out Puppettu's [Discord Server](https://discord.gg/85vFksTpX7)
+
+# 🤝🏻 Thank you for reading!
+- Credits to `@Puppettu#9013` :3
+- Please `STAR ⭐` this repository as I'll be updating this repository `every 2 weeks`! So you don't miss out!!
