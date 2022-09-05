@@ -8,7 +8,7 @@
 - 2. Install all the required packages -> [🗃️ Installing Packages](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#%EF%B8%8F-installing-packages)
 - 3. Change some basic stuffs like; `bot_token` & `database_url` & `developer_id` -> [🪛 Changing Some Stuff](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-changing-some-stuff)
 - 4. Now run the bot 'cause you're done -> [👾 Starting The Bot](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-starting-the-bot)
-- 5. Support me by giving a "⭐" to this repo + Reach out thru [my socials](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-useful-links)
+- 5. Support me by giving a "`⭐`" to this repo + Reach out thru [my socials](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#-useful-links)
 
 # 🗃️ Installing Packages:
 - `npm install discord.js` - Installs the Discord.JS package
@@ -19,6 +19,7 @@
 
 # 🪛 Changing Some Stuff:
 - in [config.json](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/config.json) file, change "BOT TOKEN" with your bot's token, if you have Mongo, then replace "DatabaseURL" with your mongoose url.
+- Trouble Connecting to MongoDB? Watch this video [here](https://www.youtube.com/watch?v=BEkyfqlbVRw) and follow the steps.
 - in [slashCommands.js](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14/Events/Interactions/slashCommands.js) file, change Line:21 "YOUR USER ID" with your own id, because it's the bot developer's ID. If the bot has multiple developers, then continue with: `(command.developer && interaction.user.id !== "YOUR USER ID" || command.developer && interaction.user.id !== "2ND OWNER" || command.developer && interaction.user.id !== "3RD OWNER)"`
 
 # 👾 Starting The Bot:
