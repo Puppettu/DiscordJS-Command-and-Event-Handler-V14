@@ -3,8 +3,8 @@
 - If you have any problem, join Puppettu's [Support Server](https://discord.gg/85vFksTpX7) via Discord: 
 
 # 🤖 How To Install/Use This Handler?
-- 1. Download the code via `.zip` 
-[View Screenshot](https://user-images.githubusercontent.com/97049995/188440082-15bc629d-aad1-444f-b570-0e3925ce52db.jpg)
+- 1. Download the code via `.zip`![View Screenshot](https://user-images.githubusercontent.com/97049995/188441028-1697b0f9-99b9-42fc-b8f0-f48748706eb3.jpg)
+ 
 - 2. Install the required Packages [teleport](https://github.com/Puppettu/DiscordJS-Command-and-Event-Handler-V14#%EF%B8%8F-installing-packages)
 
 
