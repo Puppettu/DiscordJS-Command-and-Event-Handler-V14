@@ -3,7 +3,7 @@
 - If you have any problem, join Puppettu's [Support Server](https://discord.gg/85vFksTpX7) via Discord: 
 
 # 🤖 How To Install/Use This Handler?
-- 1. Download the code via `.zip` [.](https://user-images.githubusercontent.com/97049995/188440082-15bc629d-aad1-444f-b570-0e3925ce52db.jpg)
+- 1. Download the code via `.zip` https://user-images.githubusercontent.com/97049995/188440082-15bc629d-aad1-444f-b570-0e3925ce52db.jpg
 - 2. Install the required Packages
 
 
